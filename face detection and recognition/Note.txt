@@ -1,0 +1,3 @@
+The codes are part of a research project that I am currenty working on. 
+The plan is to build a robust face recognition system that can be used in public CCTV cameras.
+The face recognition model use concept of Siamese Neural Networks for one shot learning process.
