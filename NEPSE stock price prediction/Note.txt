@@ -1,0 +1,4 @@
+The project was done as part of my interest in NEPSE. The models were able to predict good enough for 7, 12, and 20 days
+respectively. The models had developed an intial bias that caused prices to spike up during first prediction that was avoided 
+using 10% cap in NEPSE market. The models are hybrid use concept of CNN for feature extraction, LSTM for dependency relationship 
+and Time distribudted layer for time related dependency development. 
