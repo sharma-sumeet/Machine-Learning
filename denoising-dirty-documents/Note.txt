@@ -1,0 +1,2 @@
+This a challenge posted in kaggle. 
+The task is to remove noise in the text document so as to help with better OCR results.
